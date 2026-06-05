@@ -15,6 +15,9 @@ During my internship, I was exposed to real-world administrative and technical t
 🔧 Tools & Technologies
 
 Playwright – Basic automation testing
+
 Postman – API testing
+
 SelectorsHub – XPath & CSS Locator tool
+
 Jira tools - Project management
